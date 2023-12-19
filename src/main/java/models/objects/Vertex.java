@@ -4,7 +4,7 @@ public class Vertex {
     String label;
     boolean visited;
     
-    public City(String label) {
+    public Vertex(String label) {
         this.label = label;
         this.visited = visited;
     }
