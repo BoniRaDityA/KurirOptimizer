@@ -1,6 +1,6 @@
 package models.objects;
 
-public class City {
+public class Vertex {
     String label;
     boolean visited;
     
